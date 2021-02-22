@@ -19,7 +19,8 @@ Refactoring helps make our code cleaner, more organized, and more efficient. A f
 ### The Advantages of Refactoring Stock Analysis
 The most significant advantage that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about 0.15 seconds to run. Attached below are the screenshots that indicate the run time for our new analysis.
 
-![Screen Shot 2021-02-22 at 12 12 23 AM](https://user-images.githubusercontent.com/77812423/108665329-acf20c00-74a2-11eb-8712-aafd564fee5c.png)
+
+![Screen Shot 2021-02-22 at 12 18 08 AM](https://user-images.githubusercontent.com/77812423/108665679-78cb1b00-74a3-11eb-8828-180c783c8274.png)
 
 
 ![Screen Shot 2021-02-22 at 12 13 12 AM](https://user-images.githubusercontent.com/77812423/108665393-d01cbb80-74a2-11eb-9f1f-42d2e4d67e62.png)
