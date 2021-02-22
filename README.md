@@ -16,7 +16,7 @@ The images shown above shows the analysis for stocks in 2018. The analysis for 2
 ### Pros and Cons of Refactoring Code
 Refactoring helps make our code cleaner, more organized, and more efficient. A few advantages of refactoring code include design and software improvement, debugging, and faster programming. It also benefits other users who have to read the code because it becomes easier to read because it is more concise and straightforward. However, we do not always get the opportunity to refactor our code due to disadvantages. These disadvantages include having applications that are too large to not having the proper test cases for the existing codes.
 
-###The Advantages of Refactoring Stock Analysis
+### The Advantages of Refactoring Stock Analysis
 The most significant advantage that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time (approximately 0.25 seconds) to run. Attached below are the screenshots that indicate the run time for our new analysis.
 
 ![Screen Shot 2021-02-22 at 12 12 23 AM](https://user-images.githubusercontent.com/77812423/108665329-acf20c00-74a2-11eb-8712-aafd564fee5c.png)
