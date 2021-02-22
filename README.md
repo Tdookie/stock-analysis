@@ -13,3 +13,7 @@ The images shown above shows the analysis for stocks in 2017. The analysis shows
 
 The images shown above shows the analysis for stocks in 2018. The analysis for 2018 shows that tickers "RUN" and "ENPH" were the only tickers that had a positive return for 2018.
 ## Summary
+### Pros and Cons of Refactoring Code
+Refactoring helps make our code cleaner and more organized. A few advantages of a cleaner code include design and software improvement, debugging, and faster programming. It may also benefit other users who view our projects because it becomes easier to read, as it is more concise and straightforward. However, we do not always have the luxury to refactor our code due to disadvantages. These disadvantages may range from having applications that are too large to not having the proper test cases for the existing codes, which may ultimately pose some risk if we try to refactor our code.
+
+
