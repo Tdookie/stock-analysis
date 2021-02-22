@@ -22,6 +22,6 @@ The most significant advantage that occurred as a result of the refactoring was 
 
 ![Screen Shot 2021-02-22 at 12 18 08 AM](https://user-images.githubusercontent.com/77812423/108665679-78cb1b00-74a3-11eb-8828-180c783c8274.png)
 
+![Screen Shot 2021-02-22 at 12 20 44 AM](https://user-images.githubusercontent.com/77812423/108665830-d495a400-74a3-11eb-8acd-37a5589161c3.png)
 
-![Screen Shot 2021-02-22 at 12 13 12 AM](https://user-images.githubusercontent.com/77812423/108665393-d01cbb80-74a2-11eb-9f1f-42d2e4d67e62.png)
 
